@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;400;600&display=swap");
 
 :root {
-  --blue: #b96a59;
+  --chocolate: #b96a59;
 }
 
 * {
@@ -78,7 +78,7 @@ section {
 }
 
 .heading span {
-  color: var(--blue);
+  color: var(--chocolate);
 }
 
 header {
@@ -101,7 +101,7 @@ header .user img {
   width: 17rem;
   border-radius: 50%;
   object-fit: cover;
-  border: 0.7rem solid var(--blue);
+  border: 0.7rem solid var(--chocolate);
 }
 
 header .user .name {
@@ -173,7 +173,7 @@ header .navbar ul a:hover {
 }
 
 .home h1 span {
-  color: var(--blue);
+  color: var(--chocolate);
 }
 
 .about .row {
@@ -192,7 +192,7 @@ header .navbar ul a:hover {
 
 .about .row .info h3 {
   font-size: 2rem;
-  color: var(--blue);
+  color: var(--chocolate);
   padding: 1rem 0;
   font-weight: normal;
 }
@@ -219,7 +219,7 @@ header .navbar ul a:hover {
 
 .about .row .counter .box span {
   font-size: 4rem;
-  color: var(--blue);
+  color: var(--chocolate);
 }
 
 .about .row .counter .box h3 {
@@ -275,7 +275,7 @@ header .navbar ul a:hover {
   text-align: center;
   font-size: 2rem;
   color: rgb(215, 214, 214);
-  background: var(--blue);
+  background: var(--chocolate);
 }
 
 .portfolio .box-container {
@@ -362,7 +362,7 @@ header .navbar ul a:hover {
 
 .contact .row .content .info h3 i {
   padding-right: 1rem;
-  color: var(--blue);
+  color: var(---chocolate);
 }
 
 .copyright {
@@ -387,12 +387,12 @@ header .navbar ul a:hover {
   transition: transform 0.5s;
 }
 .social-icons a:hover {
-  color: var(--blue);
+  color: var(--chocolate);
   transform: translateY(-5px);
 }
 
 #msg {
-  color: var(--blue);
+  color: var(---chocolate);
   margin-top: -60px;
   flex-basis: 11%;
   display: block;
